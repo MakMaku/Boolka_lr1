@@ -1,0 +1,3 @@
+﻿  Client.cpp
+C:\Users\snake\OneDrive\Рабочий стол\лр\БОЛА\BOLA_1\Client\Client.cpp(20,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Client.vcxproj -> C:\Users\snake\OneDrive\Рабочий стол\лр\БОЛА\BOLA_1\Client\Debug\Client.exe
